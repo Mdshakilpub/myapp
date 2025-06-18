@@ -26,7 +26,7 @@ HTTP (Network Requests)
 
 | Home Screen | Screenshot-1 | Screenshot-2 |
 |-------------|-------------|-------------|
-| ![Home](Images/Rajshahi.jpg) | ![Location-1](Images/Bogra.jpg) | ![Location-2](Images/Islamabad.jpg)
+| ![Home](Images/Bogra.png) | ![Location-1](Images/Islamabad.png) | ![Location-2](Images/Rajshahi.png)
 ## 🚀 Installation
 
 1. **Clone the repository**
