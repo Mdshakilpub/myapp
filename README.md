@@ -1,16 +1,58 @@
-# myapp
+# 🌤️ Weather App (FLutter)
 
-A new Flutter project.
+A beautiful Flutter-based weather application that provides real-time weather updates for any city worldwide using the OpenWeatherMap API.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- 🔍 Search weather by city name
+- 🌡️ Real-time temperature display (in °C)
+- ☔ Weather condition descriptions (e.g., Rain, Clear, Clouds)
+- 💧 Humidity and wind speed indicators
+- 🌅 Sunrise/Sunset times with beautiful animations
+- 🎨 Dynamic background gradients based on weather conditions
+- 📱 Responsive UI for all screen sizes
+- 🌀 Lottie animations for weather states
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
+Flutter (Mobile Framework)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+OpenWeatherMap API (Weather Data)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Lottie (Animations)
+
+HTTP (Network Requests)
+
+## 📱 Screenshots
+
+| Home Screen | Screenshot-1 | Screenshot-2 |
+|-------------|-------------|-------------|
+| ![Home](Images/HomePage.jpg) | ![Location-1](Images/Bogra.jpg) | ![Location-2](Images/Islamabad.jpg)
+## 🚀 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/sohanurpub/myapp.git
+   cd myapp
+
+2. Get dependencies:
+
+   ```bash
+   flutter pub get
+
+3. Run the app:
+
+   ```bash
+   flutter run
+
+## 🏗️ Project Structure
+
+    lib/
+    ├── main.dart                # App entry point
+    ├── models/
+    │   └── weather_model.dart   # Data models
+    ├── services/
+    │   └── weather_services.dart # API services
+    ├── widgets/
+    │   └── weather_card.dart    # Reusable widgets
+    └── screens/
+    └── home_screen.dart     # Main screen
