@@ -24,7 +24,7 @@ HTTP (Network Requests)
 
 ## 📱 Screenshots
 
-| Home Screen | Screenshot-1 | Screenshot-2 |
+| Screenshot-1 | Screenshot-2 | Screenshot-3 |
 |-------------|-------------|-------------|
 | ![Home](Images/Bogra.png) | ![Location-1](Images/Islamabad.png) | ![Location-2](Images/Rajshahi.png)
 ## 🚀 Installation
